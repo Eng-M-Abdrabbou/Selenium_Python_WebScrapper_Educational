@@ -1,0 +1,4 @@
+$env:LINKEDIN_USER="your_linkedin_email@example.com"
+$env:LINKEDIN_PASS="your_linkedin_password"
+
+placeholders at the moment
