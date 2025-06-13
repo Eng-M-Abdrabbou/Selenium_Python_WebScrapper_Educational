@@ -9,7 +9,7 @@
 
 ## About
 
-This Python script utilizes the Selenium WebDriver to automate the process of navigating to and extracting publicly available information from LinkedIn profiles. It logs into LinkedIn using provided environment variables for credentials and then scrapes data from a specified profile URL. The extracted data, where obtainable through direct scraping, is then saved into a CSV file. **Please be aware that LinkedIn's website structure changes frequently, and direct scraping of certain data points like email addresses and phone numbers is generally not possible and violates LinkedIn's terms of service. This script focuses on publicly available profile information.**
+This Python script utilizes the Selenium WebDriver to automate the process of navigating to and extracting publicly available information from LinkedIn profiles. It logs into LinkedIn using provided environment variables for credentials and then scrapes data from a specified profile URL. The extracted data, where obtainable through direct scraping, is then saved into a CSV file. **Please be aware that LinkedIn's website structure changes frequently, and direct scraping of certain data points like email addresses and phone numbers is generally not possible and violates LinkedIn's terms of service. This script focuses on publicly available profile information.** THis was requsted by a cyber security specialist for a very specific use-case.
 
 ## Setup
 
